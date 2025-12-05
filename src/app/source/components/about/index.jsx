@@ -37,6 +37,7 @@ const About = () => {
                         <p>I'm currently exploring new opportunities to contribute my skills in React, Next.js, TypeScript, and modern UI development. I'm also expanding into React Native and building polished mobile and web experiences that create real impact.</p>
 
 
+
                         <div className={styles.tp_about__stats}>
                             <div className={styles.tp_about__statItem}>
                                 <div className={styles.tp_about__statNumber}>2.7</div>
